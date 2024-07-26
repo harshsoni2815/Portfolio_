@@ -40,7 +40,7 @@ ScrollReveal({
  ScrollReveal().reveal('.home-content p,.about p',{origin:'right'});
  
  let typed = new Typed('#names', {
-  strings: ["Front-end developer","backend-developer",],
+  strings: ["Front-end developer","backend-developer","MERN stack developer"],
   typeSpeed: 100,
   backSpeed:100,
   backDelay:100,
