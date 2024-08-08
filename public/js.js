@@ -35,9 +35,9 @@ ScrollReveal({
  });
 
  ScrollReveal().reveal('.home-content , .heading',{origin:'top'});
- ScrollReveal().reveal('.photo ,.portfolio-container ,.container-box , .contact',{origin:'bottom'});
+/*  ScrollReveal().reveal('.photo ,.portfolio-container ,.container-box , .contact',{origin:'bottom'});
  ScrollReveal().reveal('.home-content h1 ',{origin:'left'});
- ScrollReveal().reveal('.home-content p,.about p',{origin:'right'});
+ ScrollReveal().reveal('.home-content p,.about p',{origin:'right'}); */
  
  let typed = new Typed('#names', {
   strings: ["Front-end developer","backend-developer","MERN stack developer"],

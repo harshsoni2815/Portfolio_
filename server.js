@@ -55,5 +55,5 @@ app.get("*",(req,res)=>{
     res.redirect('/');
 })
 app.listen(port, () => {
-    
+    console.log("http://localhost:3000/")
 });
